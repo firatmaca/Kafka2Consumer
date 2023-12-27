@@ -1,7 +1,5 @@
 # Kafka2Consumer
 
-https://www.youtube.com/watch?v=m3GAHcN9aoA&t=7705s
-
 Yukarıdaki videoyu izleyerek kafka ile 1 prosuder 2 consumer yaratıp kafkanın çalışma prensiblerini anlamayı hedefledim. 
 Prosuderdan user oluşturuyoruz user(Postgres) tablosuna kaydediyor ve  consumerlara userı(addres ve maill bilgileri) yolluyoruz.
 Address servisinde adresini payloddan alıp  address(Postgres) tablosuba kaydediyoruz.  Notification servisinde ise mailli kısmını 
